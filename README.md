@@ -25,3 +25,6 @@ src/
 ├── navigation/     # AppNavigator
 └── constants/      # colors.js
 ```
+## 📸 Screenshot
+
+![App Screenshot](assets/screenshot.png)
